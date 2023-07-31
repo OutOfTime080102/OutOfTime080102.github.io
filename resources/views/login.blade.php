@@ -9,7 +9,7 @@
       rel="stylesheet"
     />
     <link
-      href="http://127.0.0.1:5500/resources/css/login.css"
+      href="resources/css/login.css"
       rel = "stylesheet"
     />
   </head>
@@ -21,7 +21,7 @@
     >
       <img
         class="picture"
-        src="http://127.0.0.1:5500/resources/images/picture.png"
+        src="/resources/images/picture.png"
       />
       <div
         class="frontpicture"
@@ -35,7 +35,7 @@
         >
           <a href="#" ><img
             style="width: 25px; height: 25px"
-            src="http://127.0.0.1:5500/resources/images/iconback.svg"
+            src="resources/images/iconback.svg"
           /></a>
         </div>
         <div
@@ -47,11 +47,11 @@
       <img
         class="eistudyiconwhite"
         "
-        src="http://127.0.0.1:5500/resources/images/EIStudy%201.png"
+        src="resources/images/EIStudy%201.png"
       />
       <img
         class="eistudyiconpink"
-        src="http://127.0.0.1:5500/resources/images/z3007233494654_15ca45a569fa4c55c533e9fa0bdcc435%202.png"
+        src="resources/images/z3007233494654_15ca45a569fa4c55c533e9fa0bdcc435%202.png"
       />
       <div
         class="welcome"
@@ -67,7 +67,7 @@
         >
         <img
             class="emailicon"
-            src="http://127.0.0.1:5500/resources/images/iconemail.svg"
+            src="/resources/images/iconemail.svg"
           />
         </div>
         
@@ -85,7 +85,7 @@
         >
           <img
             class="iconpass"
-            src="http://127.0.0.1:5500/resources/images/iconpassword.svg"
+            src="/resources/images/iconpassword.svg"
           />
         </div>
       </div>
@@ -110,6 +110,6 @@
       <a class="two" href="#">Quên mật khẩu?</a>
       </div>
     </div>
-    <script src="http://127.0.0.1:5500/resources/js/password.js"></script>
+    <script src="/resources/js/password.js"></script>
   </body>
 </html>
