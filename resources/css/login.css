@@ -1,0 +1,208 @@
+body {
+    font-family: Quicksand;
+  }
+div.fullview{
+width: 1440px;
+    height: 1024px;
+    position: relative;
+    background: white;
+}
+div.login{
+    left: 836px; top: 84px; position: absolute;
+}
+img.picture{
+    width: 1440px;
+          height: 1024px;
+          left: 0px;
+          top: 0px;
+          position: absolute;
+}
+div.frontpicture{
+    width: 1440px;
+          height: 1024px;
+          left: 0px;
+          top: 0px;
+          position: absolute;
+          opacity: 0.9;
+          background: rgba(195, 34, 112, 0.7);
+          box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+div.backgroundlogin{
+    width: 653px;
+          height: 1024px;
+          left: 787px;
+          top: 0px;
+          position: absolute;
+          background: #f6f6f6;
+}
+div.svgback{
+    width: 30px;
+            height: 30px;
+            left: 0px;
+            top: 2px;
+            position: absolute;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: flex-start;
+            display: inline-flex;
+}
+div.logintext{
+    left: 45px;
+            top: 2px;
+            position: absolute;
+            color: #c32270;
+            font-size: 20px;
+            font-family: Quicksand;
+            font-weight: 500;
+            word-wrap: break-word;
+}
+img.eistudyiconwhite{
+    width: 432px;
+          height: 105px;
+          left: 188px;
+          top: 435px;
+          position: absolute;
+}
+img.eistudyiconpink{
+    width: 428px;
+          height: 104px;
+          left: 900px;
+          top: 194px;
+          position: absolute;
+}
+div.welcome{
+    left: 945px;
+          top: 336px;
+          position: absolute;
+          color: black;
+          font-size: 18px;
+          font-family: Quicksand;
+          font-weight: 500;
+          word-wrap: break-word;
+}
+div.email{
+    width: 523px;
+          height: 55px;
+          left: 852px;
+          top: 427px;
+          position: absolute;
+}
+input.boxemail{
+    width: 523px;
+            height: 55px;
+            left: 0px;
+            top: 0px;
+            position: absolute;
+            background: white;
+            border-radius: 10px;
+            border-left: 0.5px #bababa solid;
+            border-top: 0.5px #bababa solid;
+            border-right: 0.5px #bababa solid;
+            border-bottom: 0.5px #bababa solid;
+            text-indent: 59px;
+            font-size: 18px;
+            font-family: Quicksand;
+            font-weight: 500;
+            word-wrap: break-word;
+            
+            
+}
+div.boxemailicon{
+    width: 30px;
+            height: 30px;
+            left: 15px;
+            top: 15px;
+            position: absolute;
+}
+img.emailicon{
+    width: 30px; height: 30px; left: 2.5px; position: absolute
+}
+div.password{
+    width: 523px;
+          height: 55px;
+          left: 852px;
+          top: 502px;
+          position: absolute;
+}
+input.boxpassword{
+    width: 523px;
+            height: 55px;
+            left: 0px;
+            top: 0px;
+            position: absolute;
+            background: white;
+            border-radius: 10px;
+            border-left: 0.5px #bababa solid;
+            border-top: 0.5px #bababa solid;
+            border-right: 0.5px #bababa solid;
+            border-bottom: 0.5px #bababa solid;
+            text-indent: 59px;
+            font-size: 18px;
+            font-family: Quicksand;
+            font-weight: 500;
+            word-wrap: break-word;
+}
+div.boxpassicon{
+    width: 30px;
+            height: 30px;
+            left: 15px;
+            top: 15px;
+            position: absolute;
+}
+div.boxlogin{
+    width: 523px;
+          height: 55px;
+          left: 852px;
+          top: 585px;
+          position: absolute;
+}
+.boxlogin .button{
+    width: 523px;
+            height: 55px;
+            left: 0px;
+            top: 0px;
+            position: absolute;
+            background: #c32270;
+            border-radius: 10px;
+            border-left: 1px white solid;
+            border-top: 1px white solid;
+            border-right: 1px white solid;
+            border-bottom: 1px white solid;
+}
+.boxlogin .button:hover {
+    background-color : #9e3668;
+}
+img.iconpass{
+    width: 30px; height: 30px; left: 3px; position: absolute
+}
+div.boxlogintext{
+    left: 215px;
+            top: 16px;
+            position: absolute;
+            color: white;
+            font-size: 18px;
+            font-family: Quicksand;
+            font-weight: 500;
+            word-wrap: break-word;
+}
+a.one{
+    color:#c32270;
+    text-decoration: none;
+}
+a.two{
+    color: black;
+    text-decoration: none;
+}
+a.two:hover{
+    color :#c32270 ;
+}
+div.forgetpass{
+    left: 1043px;
+          top: 660px;
+          position: absolute;
+          color: black;
+          font-size: 18px;
+          font-family: Quicksand;
+          font-weight: 500;
+          word-wrap: break-word;
+}
